@@ -46,5 +46,10 @@
     ],
     "mastery_decision": "Ready to continue after brief review; keep estoy vs estás and ser vs estar contrast active next session."
   },
-  "approvals": []
+  "approvals": [],
+  "session_timing": {
+    "current_started_at": "",
+    "last_started_at": "",
+    "last_ended_at": ""
+  }
 }
