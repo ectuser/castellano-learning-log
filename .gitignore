@@ -1,0 +1,23 @@
+# Local textbook material is available to the tutor but not tracked.
+textbook/source/
+textbook/extracted/
+textbook/media/
+textbook/workbook/
+
+# Common source/media formats.
+*.pdf
+*.epub
+*.mobi
+*.azw3
+*.doc
+*.docx
+*.mp3
+*.m4a
+*.wav
+*.mp4
+*.mov
+
+# Temporary files.
+.DS_Store
+*.tmp
+*.bak
