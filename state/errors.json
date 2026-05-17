@@ -3,7 +3,7 @@
     "id": "lesson-1-estoy-vs-estas",
     "status": "active_review",
     "source": "Lesson One Dialogue 1 / To be",
-    "pattern": "Uses estás when answering about self, where estoy is needed.",
+    "pattern": "Needs estar forms for temporary states: estoy for self, estás for tú, está for third person.",
     "examples": [
       {
         "learner": "Estas muy bien.",
@@ -12,10 +12,32 @@
       {
         "learner": "estoy un poco cansado",
         "target": "Estoy un poco cansado."
+      },
+      {
+        "learner": "tu hermano es cansado",
+        "target": "¿Tu hermano está cansado?"
+      },
+      {
+        "learner": "tu hermano es ocupado",
+        "target": "¿Tu hermano está ocupado?"
       }
     ],
-    "next_review": "2026-05-19",
+    "next_review": "next_session",
     "priority": "high"
+  },
+  {
+    "id": "lesson-1-cansado-spelling",
+    "status": "active_review",
+    "source": "Lesson One Language in use Exercise 3",
+    "pattern": "Spells cansado phonetically as kanisado.",
+    "examples": [
+      {
+        "learner": "Estas kanisado",
+        "target": "¿Estás cansado?"
+      }
+    ],
+    "next_review": "next_session",
+    "priority": "medium"
   },
   {
     "id": "lesson-1-no-soy-vs-no-pause-soy",

@@ -35,3 +35,11 @@
 - Exercise 3 preview: learner produced `¿Estás ocupado?` correctly.
 - Corrections to review next time: `el problema`, article exceptions, and `un poco` spelling.
 - Next start point: Lesson One Language in use Exercise 3 on PDF page 14, asking whether someone is tired/busy/ill/free.
+
+## Short Exercise 3 Session
+
+- Duration: about 4 minutes.
+- Covered: Lesson One Language in use Exercise 3, first two prompt groups: asking whether `tú` and `tu hermano` are tired, busy, ill, or free.
+- Evidence: learner produced `¿Estás ocupado?`, `¿Estás enfermo?`, `¿Estás libre?`, and repaired brother prompts to `¿Tu hermano está libre?` / `¿Tu hermano está enfermo?`.
+- Corrections: `kanisado` -> `cansado`; use `está`, not `es`, for temporary state in `Tu hermano está cansado/ocupado`.
+- Next start point: continue Exercise 3 with `tu hermana`: tired, busy, ill, and free.

@@ -48,8 +48,8 @@
       {
         "spanish": "cansado/cansada",
         "english": "tired",
-        "status": "correct_once",
-        "review_due": "2026-05-19"
+        "status": "fragile_spelling",
+        "review_due": "next_session"
       },
       {
         "spanish": "un poco",
