@@ -1,15 +1,15 @@
 {
   "textbook": {
-    "active_id": "main",
-    "lesson_id": "",
-    "section_id": "",
+    "active_id": "colloquial-spanish-untza-otaola-alday",
+    "lesson_id": "About this book",
+    "section_id": "Pronunciation guide",
     "activity_id": "",
-    "page": "",
-    "next_start": ""
+    "page": "PDF page 6",
+    "next_start": "About this book: Pronunciation guide, then Lesson One: Encuentros / Meeting people"
   },
   "status": {
     "lesson_state": "not_started",
-    "last_session_date": "",
+    "last_session_date": "2026-05-17",
     "recommended_next_mode": "normal lesson",
     "estimated_next_session_minutes": 45
   },

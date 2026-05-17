@@ -1,8 +1,19 @@
 {
   "target_language": "castellano",
   "textbook": {
-    "active_id": "main",
-    "items": []
+    "active_id": "colloquial-spanish-untza-otaola-alday",
+    "items": [
+      {
+        "id": "colloquial-spanish-untza-otaola-alday",
+        "title": "Colloquial Spanish",
+        "author": "Untza Otaola Alday",
+        "format": "pdf",
+        "path": "textbook/source/Colloquial Spanish - Untza Otaola Alday.pdf",
+        "pages": 290,
+        "navigation": "PDF outline/bookmarks",
+        "role": "active_textbook"
+      }
+    ]
   },
   "git": {
     "auto_commit": true,
