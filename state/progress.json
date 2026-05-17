@@ -2,16 +2,16 @@
   "textbook": {
     "active_id": "colloquial-spanish-untza-otaola-alday",
     "lesson_id": "Lesson One",
-    "section_id": "Dialogue 1 and Language points",
-    "activity_id": "",
-    "page": "PDF pages 8-12",
-    "next_start": "Brief review of Lesson One Dialogue 1, then Spanish Culture / Language in use Exercise 1 on PDF pages 13-14"
+    "section_id": "Spanish Culture / Language in use",
+    "activity_id": "Exercise 2 complete",
+    "page": "PDF pages 13-14",
+    "next_start": "Lesson One Language in use Exercise 3 on PDF page 14: asking if someone is tired/busy/ill/free"
   },
   "status": {
     "lesson_state": "in_progress",
     "last_session_date": "2026-05-17",
     "recommended_next_mode": "normal lesson",
-    "estimated_next_session_minutes": 35
+    "estimated_next_session_minutes": 30
   },
   "targets": {
     "grammar": [
@@ -29,7 +29,9 @@
     "completed_textbook_activities": [
       "About this book: pronunciation guide overview",
       "Lesson One Dialogue 1: Meeting the family",
-      "Lesson One Language points through Greetings and their replies"
+      "Lesson One Language points through Greetings and their replies",
+      "Lesson One Language in use Exercise 1",
+      "Lesson One Language in use Exercise 2"
     ],
     "checks_passed": [
       "Recognized silent h in hola",
@@ -38,19 +40,23 @@
       "Recognized el viaje and la hermana",
       "Distinguished soy/eres/es in controlled prompts",
       "Distinguished estoy for state from soy for identity",
-      "Selected bueno/buena with el viaje/la hermana"
+      "Selected bueno/buena with el viaje/la hermana",
+      "Produced six introduction sentences with soy + el/la hermano/a de",
+      "Selected el/la articles for Exercise 2, including repair of el problema"
     ],
     "guided_production_notes": [
       "Successful final role-play as Ivan with Teresa using greetings, identity, state, journey, and tiredness response.",
       "Keyboard limitation accepted for inverted punctuation and accents; tutor should continue showing correct forms while accepting plain keyboard input.",
-      "Short review: produced ¿Cómo estás?, Estoy un poco cansado, and El viaje es bueno after one prompt."
+      "Short review: produced ¿Cómo estás?, Estoy un poco cansado, and El viaje es bueno after one prompt.",
+      "Completed Exercise 1 introductions; main correction was spelling/capitalization, not structure.",
+      "Completed Exercise 2 article drill; corrected el problema after initial la problema; previewed Exercise 3 with ¿Estás ocupado?"
     ],
-    "mastery_decision": "Ready to continue after brief review; keep estoy vs estás and ser vs estar contrast active next session, but reduce intensity if the learner answers self-state with estoy."
+    "mastery_decision": "Ready to continue to Exercise 3 after brief review. Keep el problema, el/la article exceptions, and estoy/estás active."
   },
   "approvals": [],
   "session_timing": {
     "current_started_at": "",
-    "last_started_at": "2026-05-17T10:15:55+02:00",
-    "last_ended_at": "2026-05-17T10:19:28+02:00"
+    "last_started_at": "2026-05-17T11:04:16+02:00",
+    "last_ended_at": "2026-05-17T11:21:25+02:00"
   }
 }

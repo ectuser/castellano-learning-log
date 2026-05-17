@@ -52,5 +52,23 @@
     ],
     "next_review": "2026-05-22",
     "priority": "medium"
+  },
+  {
+    "id": "lesson-1-el-problema",
+    "status": "active_review",
+    "source": "Lesson One Language in use Exercise 2",
+    "pattern": "Uses la with problema; target is el problema despite final -a.",
+    "examples": [
+      {
+        "learner": "la problma",
+        "target": "el problema"
+      },
+      {
+        "learner": "la problema",
+        "target": "el problema"
+      }
+    ],
+    "next_review": "2026-05-19",
+    "priority": "high"
   }
 ]

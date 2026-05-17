@@ -110,6 +110,12 @@
         "english": "the sister",
         "status": "correct_once",
         "review_due": "2026-05-19"
+      },
+      {
+        "spanish": "el hermano",
+        "english": "the brother",
+        "status": "correct_once",
+        "review_due": "2026-05-19"
       }
     ]
   }

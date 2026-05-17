@@ -24,3 +24,14 @@
 - Evidence: learner produced `estoy un poco cansado` and `el viaje es bueno` correctly; punctuation and accents treated as keyboard noise.
 - Correction: reinforced `El viaje`, not `en viaje`.
 - Next start point: continue with normal lesson from Spanish Culture / Language in use Exercise 1 on PDF pages 13-14, with a very brief `estoy` vs `estás` warm-up.
+
+## Lesson Session
+
+- Duration: about 17 minutes.
+- Covered: Lesson One Spanish Culture note; Language in use Exercise 1 and Exercise 2; brief preview of Exercise 3.
+- Practiced: `Soy Iván`, `¿Cómo estás?`, `Estoy un poco cansado`, `Soy Brian, el hermano de Max`, `Soy Stella, la hermana de Laura`, and article choices with `el/la`.
+- Exercise 1 evidence: learner produced all six introduction sentences with correct `soy + el/la hermano/a de`; corrections were mainly spelling/capitalization (`hermano`, `Carmen`, names).
+- Exercise 2 evidence: learner selected most articles correctly, repaired `el problema` after initially using `la problema`, and recognized exceptions `la mano`, `el tema`, `el problema`.
+- Exercise 3 preview: learner produced `¿Estás ocupado?` correctly.
+- Corrections to review next time: `el problema`, article exceptions, and `un poco` spelling.
+- Next start point: Lesson One Language in use Exercise 3 on PDF page 14, asking whether someone is tired/busy/ill/free.
