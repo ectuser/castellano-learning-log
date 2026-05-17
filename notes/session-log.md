@@ -16,3 +16,11 @@
 - Corrections to review next time: `estoy` vs `estás`, `No soy Iván` vs `No. Soy Iván`, and `bien` vs `bueno`.
 - Keyboard accommodation: learner may type plain `!`, `?`, and omit accents; tutor should model correct Spanish forms.
 - Next start point: brief review of Lesson One Dialogue 1, then Spanish Culture / Language in use Exercise 1 on PDF pages 13-14.
+
+## Short Review Session
+
+- Duration: about 3.5 minutes.
+- Reviewed: `¿Cómo estás?`, `Estoy un poco cansado`, `El viaje es bueno`, and `No. Soy Iván.`
+- Evidence: learner produced `estoy un poco cansado` and `el viaje es bueno` correctly; punctuation and accents treated as keyboard noise.
+- Correction: reinforced `El viaje`, not `en viaje`.
+- Next start point: continue with normal lesson from Spanish Culture / Language in use Exercise 1 on PDF pages 13-14, with a very brief `estoy` vs `estás` warm-up.

@@ -24,8 +24,8 @@
       {
         "spanish": "¿Cómo estás?",
         "english": "How are you?",
-        "status": "correct_once",
-        "review_due": "2026-05-19"
+        "status": "correct_twice",
+        "review_due": "2026-05-22"
       },
       {
         "spanish": "muy bien, gracias",
@@ -42,14 +42,14 @@
       {
         "spanish": "el viaje",
         "english": "the journey",
-        "status": "correct_once",
-        "review_due": "2026-05-19"
+        "status": "correct_twice",
+        "review_due": "2026-05-22"
       },
       {
         "spanish": "cansado/cansada",
         "english": "tired",
-        "status": "introduced",
-        "review_due": "next_session"
+        "status": "correct_once",
+        "review_due": "2026-05-19"
       },
       {
         "spanish": "un poco",

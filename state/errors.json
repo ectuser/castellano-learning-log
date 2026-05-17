@@ -8,9 +8,13 @@
       {
         "learner": "Estas muy bien.",
         "target": "Estoy muy bien."
+      },
+      {
+        "learner": "estoy un poco cansado",
+        "target": "Estoy un poco cansado."
       }
     ],
-    "next_review": "next_session",
+    "next_review": "2026-05-19",
     "priority": "high"
   },
   {
@@ -22,9 +26,13 @@
       {
         "learner": "no soy ivan",
         "target": "No. Soy Iván."
+      },
+      {
+        "learner": "no. soy ivan",
+        "target": "No. Soy Iván."
       }
     ],
-    "next_review": "next_session",
+    "next_review": "2026-05-22",
     "priority": "medium"
   },
   {
@@ -36,9 +44,13 @@
       {
         "learner": "The journey is well.",
         "target": "The journey is good."
+      },
+      {
+        "learner": "el viaje es bueno",
+        "target": "El viaje es bueno."
       }
     ],
-    "next_review": "next_session",
+    "next_review": "2026-05-22",
     "priority": "medium"
   }
 ]

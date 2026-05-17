@@ -42,14 +42,15 @@
     ],
     "guided_production_notes": [
       "Successful final role-play as Ivan with Teresa using greetings, identity, state, journey, and tiredness response.",
-      "Keyboard limitation accepted for inverted punctuation and accents; tutor should continue showing correct forms while accepting plain keyboard input."
+      "Keyboard limitation accepted for inverted punctuation and accents; tutor should continue showing correct forms while accepting plain keyboard input.",
+      "Short review: produced ¿Cómo estás?, Estoy un poco cansado, and El viaje es bueno after one prompt."
     ],
-    "mastery_decision": "Ready to continue after brief review; keep estoy vs estás and ser vs estar contrast active next session."
+    "mastery_decision": "Ready to continue after brief review; keep estoy vs estás and ser vs estar contrast active next session, but reduce intensity if the learner answers self-state with estoy."
   },
   "approvals": [],
   "session_timing": {
     "current_started_at": "",
-    "last_started_at": "",
-    "last_ended_at": ""
+    "last_started_at": "2026-05-17T10:15:55+02:00",
+    "last_ended_at": "2026-05-17T10:19:28+02:00"
   }
 }
