@@ -1,27 +1,50 @@
 {
   "textbook": {
     "active_id": "colloquial-spanish-untza-otaola-alday",
-    "lesson_id": "About this book",
-    "section_id": "Pronunciation guide",
+    "lesson_id": "Lesson One",
+    "section_id": "Dialogue 1 and Language points",
     "activity_id": "",
-    "page": "PDF page 6",
-    "next_start": "About this book: Pronunciation guide, then Lesson One: Encuentros / Meeting people"
+    "page": "PDF pages 8-12",
+    "next_start": "Brief review of Lesson One Dialogue 1, then Spanish Culture / Language in use Exercise 1 on PDF pages 13-14"
   },
   "status": {
-    "lesson_state": "not_started",
+    "lesson_state": "in_progress",
     "last_session_date": "2026-05-17",
     "recommended_next_mode": "normal lesson",
-    "estimated_next_session_minutes": 45
+    "estimated_next_session_minutes": 35
   },
   "targets": {
-    "grammar": [],
-    "vocabulary_sets": []
+    "grammar": [
+      "ser for identity: soy, eres, es",
+      "estar for temporary state: estoy vs estás",
+      "basic article and adjective agreement: el/la, bueno/buena",
+      "written question/exclamation punctuation recognition"
+    ],
+    "vocabulary_sets": [
+      "lesson-1-dialogue-1-core",
+      "lesson-1-greetings"
+    ]
   },
   "evidence": {
-    "completed_textbook_activities": [],
-    "checks_passed": [],
-    "guided_production_notes": [],
-    "mastery_decision": ""
+    "completed_textbook_activities": [
+      "About this book: pronunciation guide overview",
+      "Lesson One Dialogue 1: Meeting the family",
+      "Lesson One Language points through Greetings and their replies"
+    ],
+    "checks_passed": [
+      "Recognized silent h in hola",
+      "Produced greetings and self-introduction: Hola/Buenos días/Soy Iván",
+      "Answered Cómo estás with Muy bien, gracias / Estoy muy bien",
+      "Recognized el viaje and la hermana",
+      "Distinguished soy/eres/es in controlled prompts",
+      "Distinguished estoy for state from soy for identity",
+      "Selected bueno/buena with el viaje/la hermana"
+    ],
+    "guided_production_notes": [
+      "Successful final role-play as Ivan with Teresa using greetings, identity, state, journey, and tiredness response.",
+      "Keyboard limitation accepted for inverted punctuation and accents; tutor should continue showing correct forms while accepting plain keyboard input."
+    ],
+    "mastery_decision": "Ready to continue after brief review; keep estoy vs estás and ser vs estar contrast active next session."
   },
   "approvals": []
 }

@@ -1,1 +1,116 @@
-[]
+[
+  {
+    "set_id": "lesson-1-dialogue-1-core",
+    "source": "Lesson One Dialogue 1, PDF pages 8-9",
+    "items": [
+      {
+        "spanish": "hola",
+        "english": "hello",
+        "status": "correct_once",
+        "review_due": "2026-05-19"
+      },
+      {
+        "spanish": "buenos días",
+        "english": "good morning",
+        "status": "correct_once",
+        "review_due": "2026-05-19"
+      },
+      {
+        "spanish": "soy",
+        "english": "I am",
+        "status": "correct_once",
+        "review_due": "2026-05-19"
+      },
+      {
+        "spanish": "¿Cómo estás?",
+        "english": "How are you?",
+        "status": "correct_once",
+        "review_due": "2026-05-19"
+      },
+      {
+        "spanish": "muy bien, gracias",
+        "english": "very well, thanks",
+        "status": "correct_once",
+        "review_due": "2026-05-19"
+      },
+      {
+        "spanish": "¿Qué tal el viaje?",
+        "english": "How was the journey?",
+        "status": "correct_once",
+        "review_due": "2026-05-19"
+      },
+      {
+        "spanish": "el viaje",
+        "english": "the journey",
+        "status": "correct_once",
+        "review_due": "2026-05-19"
+      },
+      {
+        "spanish": "cansado/cansada",
+        "english": "tired",
+        "status": "introduced",
+        "review_due": "next_session"
+      },
+      {
+        "spanish": "un poco",
+        "english": "a little",
+        "status": "correct_once",
+        "review_due": "2026-05-19"
+      }
+    ]
+  },
+  {
+    "set_id": "lesson-1-greetings",
+    "source": "Lesson One Greetings and their replies, PDF pages 11-12",
+    "items": [
+      {
+        "spanish": "buenas tardes",
+        "english": "good afternoon",
+        "status": "correct_once",
+        "review_due": "2026-05-19"
+      },
+      {
+        "spanish": "buenas noches",
+        "english": "good evening / good night",
+        "status": "correct_once",
+        "review_due": "2026-05-19"
+      }
+    ]
+  },
+  {
+    "set_id": "lesson-1-grammar-words",
+    "source": "Lesson One Language points, PDF pages 9-12",
+    "items": [
+      {
+        "spanish": "yo",
+        "english": "I",
+        "status": "correct_once",
+        "review_due": "2026-05-19"
+      },
+      {
+        "spanish": "tú",
+        "english": "you",
+        "status": "correct_once",
+        "review_due": "2026-05-19"
+      },
+      {
+        "spanish": "él",
+        "english": "he",
+        "status": "introduced",
+        "review_due": "next_session"
+      },
+      {
+        "spanish": "ella",
+        "english": "she",
+        "status": "correct_once",
+        "review_due": "2026-05-19"
+      },
+      {
+        "spanish": "la hermana",
+        "english": "the sister",
+        "status": "correct_once",
+        "review_due": "2026-05-19"
+      }
+    ]
+  }
+]

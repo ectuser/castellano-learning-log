@@ -1,1 +1,44 @@
-[]
+[
+  {
+    "id": "lesson-1-estoy-vs-estas",
+    "status": "active_review",
+    "source": "Lesson One Dialogue 1 / To be",
+    "pattern": "Uses estás when answering about self, where estoy is needed.",
+    "examples": [
+      {
+        "learner": "Estas muy bien.",
+        "target": "Estoy muy bien."
+      }
+    ],
+    "next_review": "next_session",
+    "priority": "high"
+  },
+  {
+    "id": "lesson-1-no-soy-vs-no-pause-soy",
+    "status": "watch",
+    "source": "Lesson One introductions using ser",
+    "pattern": "Needs punctuation/pausing contrast between 'No soy Ivan' and 'No. Soy Ivan.'",
+    "examples": [
+      {
+        "learner": "no soy ivan",
+        "target": "No. Soy Iván."
+      }
+    ],
+    "next_review": "next_session",
+    "priority": "medium"
+  },
+  {
+    "id": "lesson-1-bien-vs-bueno",
+    "status": "watch",
+    "source": "Lesson One adjective forms and use",
+    "pattern": "English translation contrast: bien = well, bueno/buena = good.",
+    "examples": [
+      {
+        "learner": "The journey is well.",
+        "target": "The journey is good."
+      }
+    ],
+    "next_review": "next_session",
+    "priority": "medium"
+  }
+]
