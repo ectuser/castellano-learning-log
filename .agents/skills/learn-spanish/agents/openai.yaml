@@ -1,0 +1,4 @@
+interface:
+  display_name: "Learn Spanish"
+  short_description: "Tutor Castellano from a textbook with local progress tracking."
+  default_prompt: "Start or continue my Castellano textbook lesson."

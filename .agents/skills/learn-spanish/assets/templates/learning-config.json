@@ -1,0 +1,16 @@
+{
+  "target_language": "castellano",
+  "textbook": {
+    "active_id": "main",
+    "items": []
+  },
+  "git": {
+    "auto_commit": true,
+    "push": false
+  },
+  "paths": {
+    "state": "state",
+    "notes": "notes",
+    "textbook": "textbook"
+  }
+}

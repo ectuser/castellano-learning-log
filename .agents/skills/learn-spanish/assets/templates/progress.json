@@ -1,0 +1,32 @@
+{
+  "textbook": {
+    "active_id": "main",
+    "lesson_id": "",
+    "section_id": "",
+    "activity_id": "",
+    "page": "",
+    "next_start": ""
+  },
+  "status": {
+    "lesson_state": "not_started",
+    "last_session_date": "",
+    "recommended_next_mode": "normal lesson",
+    "estimated_next_session_minutes": 45
+  },
+  "session_timing": {
+    "current_started_at": "",
+    "last_started_at": "",
+    "last_ended_at": ""
+  },
+  "targets": {
+    "grammar": [],
+    "vocabulary_sets": []
+  },
+  "evidence": {
+    "completed_textbook_activities": [],
+    "checks_passed": [],
+    "guided_production_notes": [],
+    "mastery_decision": ""
+  },
+  "approvals": []
+}
