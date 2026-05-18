@@ -43,3 +43,15 @@
 - Evidence: learner produced `¿Estás ocupado?`, `¿Estás enfermo?`, `¿Estás libre?`, and repaired brother prompts to `¿Tu hermano está libre?` / `¿Tu hermano está enfermo?`.
 - Corrections: `kanisado` -> `cansado`; use `está`, not `es`, for temporary state in `Tu hermano está cansado/ocupado`.
 - Next start point: continue Exercise 3 with `tu hermana`: tired, busy, ill, and free.
+
+# 2026-05-18
+
+## Lesson Session
+
+- Duration: about 28 minutes.
+- Covered: Lesson One Language in use Exercise 3 sister prompts, Exercise 4 plurals, and Exercise 5 controlled production with `pero`, `y`, and `mi`.
+- Exercise 3 evidence: learner produced `¿Tu hermana está cansada?`, `¿Tu hermana está ocupada?`, `¿Tu hermana está enferma?`, and `¿Tu hermana está libre?`; corrected `libra` to invariant `libre`.
+- Exercise 4 evidence: learner produced `los libros`, `las revistas`, `las hermanas`, `los amigos`, `las casas`, and `los viajes`.
+- Exercise 5 evidence: learner produced sentences such as `Estoy ocupado, pero mi hermana está libre`, `Mi hermano no está libre y estoy enfermo`, and `Yo no estoy cansado y mi hermano no está enfermo`.
+- Corrections to review next time: `estoy` vs `está/estás`, `cansado/cansada` recall and spelling, `enfermo`, `libre` not `libra`, and negative order `no estoy/no está`.
+- Next start point: Lesson One Language in use Exercise 6 on PDF page 15, asking Carmen how people are.

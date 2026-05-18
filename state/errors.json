@@ -20,6 +20,14 @@
       {
         "learner": "tu hermano es ocupado",
         "target": "¿Tu hermano está ocupado?"
+      },
+      {
+        "learner": "si estas libre",
+        "target": "Sí, estoy libre."
+      },
+      {
+        "learner": "tu hermana estas ocupada",
+        "target": "¿Tu hermana está ocupada?"
       }
     ],
     "next_review": "next_session",
@@ -29,11 +37,15 @@
     "id": "lesson-1-cansado-spelling",
     "status": "active_review",
     "source": "Lesson One Language in use Exercise 3",
-    "pattern": "Spells cansado phonetically as kanisado.",
+    "pattern": "Spells or recalls cansado/cansada inconsistently; learner explicitly reported it needs review.",
     "examples": [
       {
         "learner": "Estas kanisado",
         "target": "¿Estás cansado?"
+      },
+      {
+        "learner": "mi hermana esta consada",
+        "target": "Mi hermana está cansada."
       }
     ],
     "next_review": "next_session",
@@ -92,5 +104,23 @@
     ],
     "next_review": "2026-05-19",
     "priority": "high"
+  },
+  {
+    "id": "lesson-1-negation-order-estar",
+    "status": "active_review",
+    "source": "Lesson One Language in use Exercise 5",
+    "pattern": "Needs Spanish negation order with estar: No, no estoy/está..., not no + adjective or no after está.",
+    "examples": [
+      {
+        "learner": "no esnoy no cansado",
+        "target": "No, no estoy cansado."
+      },
+      {
+        "learner": "no, esta no ocupado",
+        "target": "No, no está ocupada."
+      }
+    ],
+    "next_review": "next_session",
+    "priority": "medium"
   }
 ]

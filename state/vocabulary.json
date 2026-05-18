@@ -48,7 +48,7 @@
       {
         "spanish": "cansado/cansada",
         "english": "tired",
-        "status": "fragile_spelling",
+        "status": "fragile_memory",
         "review_due": "next_session"
       },
       {
@@ -116,6 +116,48 @@
         "english": "the brother",
         "status": "correct_once",
         "review_due": "2026-05-19"
+      }
+    ]
+  },
+  {
+    "set_id": "lesson-1-states-and-connectors",
+    "source": "Lesson One Language in use Exercises 3-5, PDF pages 14-15",
+    "items": [
+      {
+        "spanish": "ocupado/ocupada",
+        "english": "busy",
+        "status": "correct_once",
+        "review_due": "2026-05-20"
+      },
+      {
+        "spanish": "enfermo/enferma",
+        "english": "ill",
+        "status": "correct_after_repair",
+        "review_due": "next_session"
+      },
+      {
+        "spanish": "libre",
+        "english": "free",
+        "status": "correct_after_repair",
+        "review_due": "next_session"
+      },
+      {
+        "spanish": "pero",
+        "english": "but",
+        "status": "correct_once",
+        "review_due": "2026-05-20"
+      },
+      {
+        "spanish": "y",
+        "english": "and",
+        "status": "correct_once",
+        "review_due": "2026-05-20"
+      },
+      {
+        "spanish": "mi",
+        "english": "my",
+        "status": "correct_once",
+        "review_due": "2026-05-20"
       }
     ]
   }

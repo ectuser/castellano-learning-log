@@ -3,13 +3,13 @@
     "active_id": "colloquial-spanish-untza-otaola-alday",
     "lesson_id": "Lesson One",
     "section_id": "Spanish Culture / Language in use",
-    "activity_id": "Exercise 3 in progress",
-    "page": "PDF pages 13-14",
-    "next_start": "Lesson One Language in use Exercise 3 on PDF page 14: continue with sister prompts: asking if she is tired/busy/ill/free"
+    "activity_id": "Exercise 6 next",
+    "page": "PDF page 15",
+    "next_start": "Lesson One Language in use Exercise 6 on PDF page 15: Ask Carmen how Max, Teresa, Pedro, Juan's brother, and Laura's sister are."
   },
   "status": {
     "lesson_state": "in_progress",
-    "last_session_date": "2026-05-17",
+    "last_session_date": "2026-05-18",
     "recommended_next_mode": "normal lesson",
     "estimated_next_session_minutes": 25
   },
@@ -18,6 +18,8 @@
       "ser for identity: soy, eres, es",
       "estar for temporary state: estoy vs estás",
       "basic article and adjective agreement: el/la, bueno/buena",
+      "basic plural articles and nouns: el -> los, la -> las, vowel + s",
+      "simple connectors: pero, y, mi",
       "written question/exclamation punctuation recognition"
     ],
     "vocabulary_sets": [
@@ -31,7 +33,10 @@
       "Lesson One Dialogue 1: Meeting the family",
       "Lesson One Language points through Greetings and their replies",
       "Lesson One Language in use Exercise 1",
-      "Lesson One Language in use Exercise 2"
+      "Lesson One Language in use Exercise 2",
+      "Lesson One Language in use Exercise 3",
+      "Lesson One Language in use Exercise 4",
+      "Lesson One Language in use Exercise 5"
     ],
     "checks_passed": [
       "Recognized silent h in hola",
@@ -43,7 +48,9 @@
       "Selected bueno/buena with el viaje/la hermana",
       "Produced six introduction sentences with soy + el/la hermano/a de",
       "Selected el/la articles for Exercise 2, including repair of el problema",
-      "Produced Exercise 3 questions for tú and tu hermano; repaired ser to estar for temporary states with brother prompts"
+      "Produced Exercise 3 questions for tú, tu hermano, and tu hermana; repaired ser to estar for temporary states with brother prompts",
+      "Made singular nouns plural in Exercise 4: los libros, las revistas, las hermanas, los amigos, las casas, los viajes",
+      "Produced Exercise 5 sentences with estoy/está, pero/y/mi, and adjective agreement after correction"
     ],
     "guided_production_notes": [
       "Successful final role-play as Ivan with Teresa using greetings, identity, state, journey, and tiredness response.",
@@ -51,14 +58,15 @@
       "Short review: produced ¿Cómo estás?, Estoy un poco cansado, and El viaje es bueno after one prompt.",
       "Completed Exercise 1 introductions; main correction was spelling/capitalization, not structure.",
       "Completed Exercise 2 article drill; corrected el problema after initial la problema; previewed Exercise 3 with ¿Estás ocupado?",
-      "Short Exercise 3 session: learner produced ¿Estás ocupado?, ¿Estás enfermo?, ¿Estás libre?; corrected spelling of cansado and repaired Tu hermano es... to Tu hermano está..."
+      "Short Exercise 3 session: learner produced ¿Estás ocupado?, ¿Estás enfermo?, ¿Estás libre?; corrected spelling of cansado and repaired Tu hermano es... to Tu hermano está...",
+      "30-minute session: learner finished sister prompts in Exercise 3, completed plural Exercise 4, and completed Exercise 5 controlled production. Keep estoy, está, cansado/cansada, and libre active for review."
     ],
-    "mastery_decision": "Continue Exercise 3 with sister prompts. Keep el problema, article exceptions, cansado spelling, and estar for temporary states active."
+    "mastery_decision": "Continue with Exercise 6. Keep estoy vs está/estás, cansado/cansada memory, libre as invariant, el problema, and basic negation order active."
   },
   "approvals": [],
   "session_timing": {
     "current_started_at": "",
-    "last_started_at": "2026-05-17T11:39:45+02:00",
-    "last_ended_at": "2026-05-17T11:43:37+02:00"
+    "last_started_at": "2026-05-18T21:53:14+02:00",
+    "last_ended_at": "2026-05-18T22:21:19+02:00"
   }
 }
