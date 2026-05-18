@@ -54,4 +54,5 @@
 - Exercise 4 evidence: learner produced `los libros`, `las revistas`, `las hermanas`, `los amigos`, `las casas`, and `los viajes`.
 - Exercise 5 evidence: learner produced sentences such as `Estoy ocupado, pero mi hermana está libre`, `Mi hermano no está libre y estoy enfermo`, and `Yo no estoy cansado y mi hermano no está enfermo`.
 - Corrections to review next time: `estoy` vs `está/estás`, `cansado/cansada` recall and spelling, `enfermo`, `libre` not `libra`, and negative order `no estoy/no está`.
+- Post-session learner request: highlight `estoy`, `está`, and `estás`; repeat `enfermo/enferma`; repeat `pero` even though meaning was remembered.
 - Next start point: Lesson One Language in use Exercise 6 on PDF page 15, asking Carmen how people are.

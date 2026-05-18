@@ -132,7 +132,7 @@
       {
         "spanish": "enfermo/enferma",
         "english": "ill",
-        "status": "correct_after_repair",
+        "status": "requested_review",
         "review_due": "next_session"
       },
       {
@@ -144,8 +144,8 @@
       {
         "spanish": "pero",
         "english": "but",
-        "status": "correct_once",
-        "review_due": "2026-05-20"
+        "status": "requested_review",
+        "review_due": "next_session"
       },
       {
         "spanish": "y",

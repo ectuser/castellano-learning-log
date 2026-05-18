@@ -3,7 +3,7 @@
     "id": "lesson-1-estoy-vs-estas",
     "status": "active_review",
     "source": "Lesson One Dialogue 1 / To be",
-    "pattern": "Needs estar forms for temporary states: estoy for self, estás for tú, está for third person.",
+    "pattern": "Needs explicit contrast of estar forms for temporary states: estoy for self, estás for tú questions, está for third person.",
     "examples": [
       {
         "learner": "Estas muy bien.",
@@ -32,6 +32,20 @@
     ],
     "next_review": "next_session",
     "priority": "high"
+  },
+  {
+    "id": "lesson-1-enfermo-memory",
+    "status": "active_review",
+    "source": "Lesson One Language in use Exercise 3",
+    "pattern": "Learner requested extra review of enfermo/enferma because the word is not yet obvious.",
+    "examples": [
+      {
+        "learner": "ty estas inferno",
+        "target": "¿Tú estás enfermo?"
+      }
+    ],
+    "next_review": "next_session",
+    "priority": "medium"
   },
   {
     "id": "lesson-1-cansado-spelling",

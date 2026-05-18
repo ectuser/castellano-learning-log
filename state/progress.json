@@ -16,7 +16,7 @@
   "targets": {
     "grammar": [
       "ser for identity: soy, eres, es",
-      "estar for temporary state: estoy vs estás",
+      "estar for temporary state: contrast estoy, está, estás",
       "basic article and adjective agreement: el/la, bueno/buena",
       "basic plural articles and nouns: el -> los, la -> las, vowel + s",
       "simple connectors: pero, y, mi",
@@ -59,9 +59,10 @@
       "Completed Exercise 1 introductions; main correction was spelling/capitalization, not structure.",
       "Completed Exercise 2 article drill; corrected el problema after initial la problema; previewed Exercise 3 with ¿Estás ocupado?",
       "Short Exercise 3 session: learner produced ¿Estás ocupado?, ¿Estás enfermo?, ¿Estás libre?; corrected spelling of cansado and repaired Tu hermano es... to Tu hermano está...",
-      "30-minute session: learner finished sister prompts in Exercise 3, completed plural Exercise 4, and completed Exercise 5 controlled production. Keep estoy, está, cansado/cansada, and libre active for review."
+      "30-minute session: learner finished sister prompts in Exercise 3, completed plural Exercise 4, and completed Exercise 5 controlled production. Keep estoy, está, cansado/cansada, and libre active for review.",
+      "Post-session learner request: explicitly highlight estoy vs está vs estás, repeat enfermo/enferma, and repeat pero next session."
     ],
-    "mastery_decision": "Continue with Exercise 6. Keep estoy vs está/estás, cansado/cansada memory, libre as invariant, el problema, and basic negation order active."
+    "mastery_decision": "Continue with Exercise 6. Open with explicit review of estoy vs está vs estás, enfermo/enferma, pero, cansado/cansada memory, libre as invariant, el problema, and basic negation order."
   },
   "approvals": [],
   "session_timing": {
