@@ -9,7 +9,7 @@
   },
   "status": {
     "lesson_state": "in_progress",
-    "last_session_date": "2026-05-18",
+    "last_session_date": "2026-05-20",
     "recommended_next_mode": "normal lesson",
     "estimated_next_session_minutes": 25
   },
@@ -60,14 +60,15 @@
       "Completed Exercise 2 article drill; corrected el problema after initial la problema; previewed Exercise 3 with ¿Estás ocupado?",
       "Short Exercise 3 session: learner produced ¿Estás ocupado?, ¿Estás enfermo?, ¿Estás libre?; corrected spelling of cansado and repaired Tu hermano es... to Tu hermano está...",
       "30-minute session: learner finished sister prompts in Exercise 3, completed plural Exercise 4, and completed Exercise 5 controlled production. Keep estoy, está, cansado/cansada, and libre active for review.",
-      "Post-session learner request: explicitly highlight estoy vs está vs estás, repeat enfermo/enferma, and repeat pero next session."
+      "Post-session learner request: explicitly highlight estoy vs está vs estás, repeat enfermo/enferma, and repeat pero next session.",
+      "Three-minute review: learner correctly produced ¿Estás enfermo?, Mi hermano no está ocupado, Estoy enfermo, pero mi hermano está libre, and ¿Tu hermana está ocupada?; repaired cansado/cansada after explicit memory drill. Keep cansado/cansada active because learner reported the word is hard to remember."
     ],
-    "mastery_decision": "Continue with Exercise 6. Open with explicit review of estoy vs está vs estás, enfermo/enferma, pero, cansado/cansada memory, libre as invariant, el problema, and basic negation order."
+    "mastery_decision": "Continue with Exercise 6. Start with a 30-second recall of cansado/cansada, then move to asking Carmen how Max, Teresa, Pedro, Juan's brother, and Laura's sister are."
   },
   "approvals": [],
   "session_timing": {
     "current_started_at": "",
-    "last_started_at": "2026-05-18T21:53:14+02:00",
-    "last_ended_at": "2026-05-18T22:21:19+02:00"
+    "last_started_at": "2026-05-20T00:05:34+02:00",
+    "last_ended_at": "2026-05-20T00:09:51+02:00"
   }
 }

@@ -48,7 +48,7 @@
       {
         "spanish": "cansado/cansada",
         "english": "tired",
-        "status": "fragile_memory",
+        "status": "fragile_memory_after_repair",
         "review_due": "next_session"
       },
       {
@@ -132,8 +132,8 @@
       {
         "spanish": "enfermo/enferma",
         "english": "ill",
-        "status": "requested_review",
-        "review_due": "next_session"
+        "status": "correct_after_review",
+        "review_due": "2026-05-22"
       },
       {
         "spanish": "libre",
@@ -144,8 +144,8 @@
       {
         "spanish": "pero",
         "english": "but",
-        "status": "requested_review",
-        "review_due": "next_session"
+        "status": "correct_after_review",
+        "review_due": "2026-05-22"
       },
       {
         "spanish": "y",

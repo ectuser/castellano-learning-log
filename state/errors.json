@@ -30,7 +30,7 @@
         "target": "¿Tu hermana está ocupada?"
       }
     ],
-    "next_review": "next_session",
+    "next_review": "2026-05-22",
     "priority": "high"
   },
   {
@@ -51,7 +51,7 @@
     "id": "lesson-1-cansado-spelling",
     "status": "active_review",
     "source": "Lesson One Language in use Exercise 3",
-    "pattern": "Spells or recalls cansado/cansada inconsistently; learner explicitly reported it needs review.",
+    "pattern": "Recall of cansado/cansada remains fragile; learner explicitly reported not remembering the word during short review, then repaired it in a focused drill.",
     "examples": [
       {
         "learner": "Estas kanisado",
@@ -60,6 +60,14 @@
       {
         "learner": "mi hermana esta consada",
         "target": "Mi hermana está cansada."
+      },
+      {
+        "learner": "estoy salando",
+        "target": "Estoy cansado."
+      },
+      {
+        "learner": "tu hermana salanda?",
+        "target": "¿Tu hermana está cansada?"
       }
     ],
     "next_review": "next_session",

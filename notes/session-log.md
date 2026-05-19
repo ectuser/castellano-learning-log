@@ -56,3 +56,13 @@
 - Corrections to review next time: `estoy` vs `está/estás`, `cansado/cansada` recall and spelling, `enfermo`, `libre` not `libra`, and negative order `no estoy/no está`.
 - Post-session learner request: highlight `estoy`, `está`, and `estás`; repeat `enfermo/enferma`; repeat `pero` even though meaning was remembered.
 - Next start point: Lesson One Language in use Exercise 6 on PDF page 15, asking Carmen how people are.
+
+# 2026-05-20
+
+## Three-Minute Review Session
+
+- Duration: about 4 minutes.
+- Reviewed: `estoy`, `estás`, `está`, `enfermo/enferma`, `cansado/cansada`, `pero`, and negation with `no estoy/no está`.
+- Evidence: learner produced `¿Estás enfermo?`, `Mi hermano no está ocupado`, `Estoy enfermo, pero mi hermano está libre`, and `¿Tu hermana está ocupada?` correctly or with only accent/punctuation noise.
+- Correction: `salando/salanda` repaired to `cansado/cansada`; learner reported `cansado` is hard to remember, so keep it due next session.
+- Next start point: Lesson One Language in use Exercise 6 on PDF page 15, after a 30-second `cansado/cansada` recall.
