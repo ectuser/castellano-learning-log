@@ -66,7 +66,15 @@ Every real learning session should include learner production in Spanish before 
 
 For grammar, prefer: textbook example, noticing question, brief rule, contrastive example, recognition, controlled production, guided production.
 
-Before asking the learner to produce Spanish, make sure the required building blocks have been made explicit by the textbook or by the tutor. Do not ask for a translation, transformation, or original sentence that depends on words or grammar shown only as an unanalyzed phrase. If the tutor skipped the textbook's vocabulary, language-point, or example scaffolding, return to that scaffolding before production.
+### Recall Before Reveal
+
+For previously introduced target material, ask the learner to try before revealing the target word, form, or rule.
+
+Do not leak the answer inside the prompt. If the exercise checks `estar`, do not say "use estar" before asking for production. If the exercise checks a greeting, do not name the greeting first.
+
+Use a short ladder: one attempt, one focused hint, then reveal and continue. Preserve lesson flow; skip the recall gate for new material, recently mastered items, or when the target is not being tested.
+
+Before asking the learner to produce Spanish with new material, make sure the required building blocks have been made explicit by the textbook or by the tutor. Do not ask for a translation, transformation, or original sentence that depends on words or grammar shown only as an unanalyzed phrase. If the tutor skipped the textbook's vocabulary, language-point, or example scaffolding, return to that scaffolding before production.
 
 For pronunciation in text-only sessions, mark stress, explain sounds, give English/Russian approximations, ask the learner to say it aloud, and log only self-reported difficulty. Do not claim pronunciation was verified unless actual audio was used.
 

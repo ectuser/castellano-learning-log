@@ -73,6 +73,9 @@
     "mastery_decision": "Continue with Exercise 8 after a brief review of cansado/cansada, su vs tu, mi hermano/mi hermana, and ¿Cómo está...? vs ¿Qué tal...?"
   },
   "approvals": [],
+  "homework": {
+    "active_file": ""
+  },
   "session_timing": {
     "current_started_at": "",
     "last_started_at": "2026-05-20T21:32:23+02:00",

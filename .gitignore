@@ -21,3 +21,5 @@ textbook/workbook/
 .DS_Store
 *.tmp
 *.bak
+
+CONTEXT.md
