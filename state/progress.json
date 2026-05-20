@@ -74,7 +74,17 @@
   },
   "approvals": [],
   "homework": {
-    "active_file": ""
+    "active_file": "homework/2026-05-20-lesson-one-review.md",
+    "assigned_at": "2026-05-20",
+    "status": "assigned",
+    "focus": [
+      "Lesson One Exercises 6-7",
+      "estoy/estas/esta",
+      "cansado/cansada and enfermo/enferma",
+      "tu vs su",
+      "mi hermano/mi hermana",
+      "¿Como esta...? vs ¿Que tal...?"
+    ]
   },
   "session_timing": {
     "current_started_at": "",

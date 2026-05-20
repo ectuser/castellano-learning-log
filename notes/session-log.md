@@ -76,3 +76,9 @@
 - Review evidence: learner selected `estoy`, `estás`, and `está` correctly; produced `Mi hermana está cansada`, `Estoy libre`, `No estoy cansado`, and `Mi hermano no está enfermo`.
 - Corrections to review next time: `cansado/cansada` spelling, `tu` vs `su`, `mi hermano está enfermo`, feminine `ocupada`, and the contrast between `¿Cómo está...?` and `¿Qué tal...?`.
 - Next start point: Lesson One Language in use Exercise 8 on PDF page 16, after a short review of the corrections above.
+
+## Homework Assigned
+
+- Assigned: `homework/2026-05-20-lesson-one-review.md`.
+- Scope: optional 5-7 minute review, limited to Lesson One Exercises 6-7 and current weak points.
+- Check next time: written questions with `¿Cómo está...?` and `¿Qué tal...?`, `estoy/estás/está`, negation, `tu` vs `su`, and family words.
