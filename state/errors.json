@@ -28,10 +28,42 @@
       {
         "learner": "tu hermana estas ocupada",
         "target": "¿Tu hermana está ocupada?"
+      },
+      {
+        "learner": "Mia frato estas enfermo.",
+        "target": "Mi hermano está enfermo."
       }
     ],
     "next_review": "2026-05-22",
     "priority": "high"
+  },
+  {
+    "id": "lesson-1-tu-vs-su",
+    "status": "active_review",
+    "source": "Lesson One Language in use Exercise 7",
+    "pattern": "Needs contrast between tu for your and su for his/her in family phrases.",
+    "examples": [
+      {
+        "learner": "que tal tu hermana?",
+        "target": "¿Qué tal su hermana?"
+      }
+    ],
+    "next_review": "next_session",
+    "priority": "medium"
+  },
+  {
+    "id": "lesson-1-como-esta-vs-que-tal",
+    "status": "active_review",
+    "source": "Lesson One Language in use Exercises 6-7",
+    "pattern": "Needs contrast between ¿Cómo está...? for asking how a person is and ¿Qué tal...? for asking how something/someone is in the Exercise 7 pattern.",
+    "examples": [
+      {
+        "learner": "que tal la hermana de laura",
+        "target": "¿Cómo está la hermana de Laura?"
+      }
+    ],
+    "next_review": "next_session",
+    "priority": "medium"
   },
   {
     "id": "lesson-1-enfermo-memory",

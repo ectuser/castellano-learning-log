@@ -36,8 +36,8 @@
       {
         "spanish": "¿Qué tal el viaje?",
         "english": "How was the journey?",
-        "status": "correct_once",
-        "review_due": "2026-05-19"
+        "status": "correct_twice",
+        "review_due": "2026-05-22"
       },
       {
         "spanish": "el viaje",
@@ -158,6 +158,30 @@
         "english": "my",
         "status": "correct_once",
         "review_due": "2026-05-20"
+      }
+    ]
+  },
+  {
+    "set_id": "lesson-1-exercise-7",
+    "source": "Lesson One Language in use Exercise 7, PDF page 15",
+    "items": [
+      {
+        "spanish": "la película",
+        "english": "the film",
+        "status": "correct_once",
+        "review_due": "2026-05-22"
+      },
+      {
+        "spanish": "la fiesta",
+        "english": "the party",
+        "status": "correct_once",
+        "review_due": "2026-05-22"
+      },
+      {
+        "spanish": "su hermana",
+        "english": "his/her sister",
+        "status": "correct_after_repair",
+        "review_due": "next_session"
       }
     ]
   }

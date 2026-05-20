@@ -66,3 +66,13 @@
 - Evidence: learner produced `¿Estás enfermo?`, `Mi hermano no está ocupado`, `Estoy enfermo, pero mi hermano está libre`, and `¿Tu hermana está ocupada?` correctly or with only accent/punctuation noise.
 - Correction: `salando/salanda` repaired to `cansado/cansada`; learner reported `cansado` is hard to remember, so keep it due next session.
 - Next start point: Lesson One Language in use Exercise 6 on PDF page 15, after a 30-second `cansado/cansada` recall.
+
+## Short Lesson And Review Session
+
+- Duration: about 28 minutes.
+- Covered: Lesson One Language in use Exercise 6 and Exercise 7, plus a short review of `estoy/estás/está`, adjective agreement, family words, and negation.
+- Exercise 6 evidence: learner produced `¿Cómo está Max?`, `¿Cómo está tu hermana Teresa?`, `¿Cómo está el hermano de Juan?`, and `¿Cómo está la hermana de Laura?`; punctuation, capitalization, and accents treated as keyboard noise.
+- Exercise 7 evidence: learner produced `¿Qué tal la película?`, `¿Qué tal la fiesta?`, and repaired `tu hermana` to `su hermana`.
+- Review evidence: learner selected `estoy`, `estás`, and `está` correctly; produced `Mi hermana está cansada`, `Estoy libre`, `No estoy cansado`, and `Mi hermano no está enfermo`.
+- Corrections to review next time: `cansado/cansada` spelling, `tu` vs `su`, `mi hermano está enfermo`, feminine `ocupada`, and the contrast between `¿Cómo está...?` and `¿Qué tal...?`.
+- Next start point: Lesson One Language in use Exercise 8 on PDF page 16, after a short review of the corrections above.

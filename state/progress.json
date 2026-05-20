@@ -3,14 +3,14 @@
     "active_id": "colloquial-spanish-untza-otaola-alday",
     "lesson_id": "Lesson One",
     "section_id": "Spanish Culture / Language in use",
-    "activity_id": "Exercise 6 next",
-    "page": "PDF page 15",
-    "next_start": "Lesson One Language in use Exercise 6 on PDF page 15: Ask Carmen how Max, Teresa, Pedro, Juan's brother, and Laura's sister are."
+    "activity_id": "Exercise 8 next",
+    "page": "PDF page 16",
+    "next_start": "Lesson One Language in use Exercise 8 on PDF page 16: Rewrite Dialogue 1 so that it takes place between Max and Claudio at night."
   },
   "status": {
     "lesson_state": "in_progress",
     "last_session_date": "2026-05-20",
-    "recommended_next_mode": "normal lesson",
+    "recommended_next_mode": "review then normal lesson",
     "estimated_next_session_minutes": 25
   },
   "targets": {
@@ -36,7 +36,9 @@
       "Lesson One Language in use Exercise 2",
       "Lesson One Language in use Exercise 3",
       "Lesson One Language in use Exercise 4",
-      "Lesson One Language in use Exercise 5"
+      "Lesson One Language in use Exercise 5",
+      "Lesson One Language in use Exercise 6",
+      "Lesson One Language in use Exercise 7"
     ],
     "checks_passed": [
       "Recognized silent h in hola",
@@ -50,7 +52,10 @@
       "Selected el/la articles for Exercise 2, including repair of el problema",
       "Produced Exercise 3 questions for tú, tu hermano, and tu hermana; repaired ser to estar for temporary states with brother prompts",
       "Made singular nouns plural in Exercise 4: los libros, las revistas, las hermanas, los amigos, las casas, los viajes",
-      "Produced Exercise 5 sentences with estoy/está, pero/y/mi, and adjective agreement after correction"
+      "Produced Exercise 5 sentences with estoy/está, pero/y/mi, and adjective agreement after correction",
+      "Completed Exercise 6 questions with ¿Cómo está...? for Max, Teresa, Pedro, Juan's brother, and Laura's sister",
+      "Completed Exercise 7 questions with ¿Qué tal...? for el viaje, la película, la fiesta, and su hermana",
+      "Correctly selected estoy, estás, and está in a short review drill"
     ],
     "guided_production_notes": [
       "Successful final role-play as Ivan with Teresa using greetings, identity, state, journey, and tiredness response.",
@@ -61,14 +66,16 @@
       "Short Exercise 3 session: learner produced ¿Estás ocupado?, ¿Estás enfermo?, ¿Estás libre?; corrected spelling of cansado and repaired Tu hermano es... to Tu hermano está...",
       "30-minute session: learner finished sister prompts in Exercise 3, completed plural Exercise 4, and completed Exercise 5 controlled production. Keep estoy, está, cansado/cansada, and libre active for review.",
       "Post-session learner request: explicitly highlight estoy vs está vs estás, repeat enfermo/enferma, and repeat pero next session.",
-      "Three-minute review: learner correctly produced ¿Estás enfermo?, Mi hermano no está ocupado, Estoy enfermo, pero mi hermano está libre, and ¿Tu hermana está ocupada?; repaired cansado/cansada after explicit memory drill. Keep cansado/cansada active because learner reported the word is hard to remember."
+      "Three-minute review: learner correctly produced ¿Estás enfermo?, Mi hermano no está ocupado, Estoy enfermo, pero mi hermano está libre, and ¿Tu hermana está ocupada?; repaired cansado/cansada after explicit memory drill. Keep cansado/cansada active because learner reported the word is hard to remember.",
+      "Short lesson: learner completed Exercise 6 and Exercise 7. Main repairs were cansado/cansada spelling, Juan's brother as el hermano de Juan, su hermana instead of tu hermana for his/her sister, and using ¿Cómo está...? for the Exercise 6 pattern.",
+      "End review: learner selected estoy/estás/está correctly, produced Mi hermana está cansada and Estoy libre, but used a non-Spanish form for my brother is ill; reinforce Mi hermano está enfermo."
     ],
-    "mastery_decision": "Continue with Exercise 6. Start with a 30-second recall of cansado/cansada, then move to asking Carmen how Max, Teresa, Pedro, Juan's brother, and Laura's sister are."
+    "mastery_decision": "Continue with Exercise 8 after a brief review of cansado/cansada, su vs tu, mi hermano/mi hermana, and ¿Cómo está...? vs ¿Qué tal...?"
   },
   "approvals": [],
   "session_timing": {
     "current_started_at": "",
-    "last_started_at": "2026-05-20T00:05:34+02:00",
-    "last_ended_at": "2026-05-20T00:09:51+02:00"
+    "last_started_at": "2026-05-20T21:32:23+02:00",
+    "last_ended_at": "2026-05-20T22:00:41+02:00"
   }
 }
