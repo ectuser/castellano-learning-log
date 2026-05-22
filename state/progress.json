@@ -2,15 +2,15 @@
   "textbook": {
     "active_id": "colloquial-spanish-untza-otaola-alday",
     "lesson_id": "Lesson One",
-    "section_id": "Spanish Culture / Language in use",
-    "activity_id": "Exercise 8 next",
+    "section_id": "Dialogue 2",
+    "activity_id": "Dialogue 2 next",
     "page": "PDF page 16",
-    "next_start": "Lesson One Language in use Exercise 8 on PDF page 16: Rewrite Dialogue 1 so that it takes place between Max and Claudio at night."
+    "next_start": "Lesson One Dialogue 2 on PDF page 16: Introductions. Start with the dialogue and vocabulary after a brief review of cansado/cansada and buenas noches."
   },
   "status": {
     "lesson_state": "in_progress",
-    "last_session_date": "2026-05-20",
-    "recommended_next_mode": "review then normal lesson",
+    "last_session_date": "2026-05-22",
+    "recommended_next_mode": "normal lesson",
     "estimated_next_session_minutes": 25
   },
   "targets": {
@@ -38,7 +38,8 @@
       "Lesson One Language in use Exercise 4",
       "Lesson One Language in use Exercise 5",
       "Lesson One Language in use Exercise 6",
-      "Lesson One Language in use Exercise 7"
+      "Lesson One Language in use Exercise 7",
+      "Lesson One Language in use Exercise 8"
     ],
     "checks_passed": [
       "Recognized silent h in hola",
@@ -55,7 +56,9 @@
       "Produced Exercise 5 sentences with estoy/está, pero/y/mi, and adjective agreement after correction",
       "Completed Exercise 6 questions with ¿Cómo está...? for Max, Teresa, Pedro, Juan's brother, and Laura's sister",
       "Completed Exercise 7 questions with ¿Qué tal...? for el viaje, la película, la fiesta, and su hermana",
-      "Correctly selected estoy, estás, and está in a short review drill"
+      "Correctly selected estoy, estás, and está in a short review drill",
+      "Completed Exercise 8 rewrite of Dialogue 1 with Max and Claudio at night",
+      "Short review: produced Buenas noches, Estoy un poco cansado, ¿Estás cansado?, Mi hermana está cansada, and Mi hermano no está enfermo, pero mi hermana está cansada"
     ],
     "guided_production_notes": [
       "Successful final role-play as Ivan with Teresa using greetings, identity, state, journey, and tiredness response.",
@@ -68,9 +71,10 @@
       "Post-session learner request: explicitly highlight estoy vs está vs estás, repeat enfermo/enferma, and repeat pero next session.",
       "Three-minute review: learner correctly produced ¿Estás enfermo?, Mi hermano no está ocupado, Estoy enfermo, pero mi hermano está libre, and ¿Tu hermana está ocupada?; repaired cansado/cansada after explicit memory drill. Keep cansado/cansada active because learner reported the word is hard to remember.",
       "Short lesson: learner completed Exercise 6 and Exercise 7. Main repairs were cansado/cansada spelling, Juan's brother as el hermano de Juan, su hermana instead of tu hermana for his/her sister, and using ¿Cómo está...? for the Exercise 6 pattern.",
-      "End review: learner selected estoy/estás/está correctly, produced Mi hermana está cansada and Estoy libre, but used a non-Spanish form for my brother is ill; reinforce Mi hermano está enfermo."
+      "End review: learner selected estoy/estás/está correctly, produced Mi hermana está cansada and Estoy libre, but used a non-Spanish form for my brother is ill; reinforce Mi hermano está enfermo.",
+      "Short session: learner rewrote Dialogue 1 for Max and Claudio at night. Main repair was Buenas noches and recalling cansado after initially writing casando. Learner completed the final mixed review sentence correctly."
     ],
-    "mastery_decision": "Continue with Exercise 8 after a brief review of cansado/cansada, su vs tu, mi hermano/mi hermana, and ¿Cómo está...? vs ¿Qué tal...?"
+    "mastery_decision": "Exercise 8 complete. Continue to Dialogue 2 after a brief review of cansado/cansada and buenas noches."
   },
   "approvals": [],
   "homework": {
@@ -88,7 +92,7 @@
   },
   "session_timing": {
     "current_started_at": "",
-    "last_started_at": "2026-05-20T21:32:23+02:00",
-    "last_ended_at": "2026-05-20T22:00:41+02:00"
+    "last_started_at": "2026-05-22T23:42:52+02:00",
+    "last_ended_at": "2026-05-22T23:52:30+02:00"
   }
 }

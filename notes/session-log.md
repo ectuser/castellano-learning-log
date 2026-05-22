@@ -82,3 +82,14 @@
 - Assigned: `homework/2026-05-20-lesson-one-review.md`.
 - Scope: optional 5-7 minute review, limited to Lesson One Exercises 6-7 and current weak points.
 - Check next time: written questions with `¿Cómo está...?` and `¿Qué tal...?`, `estoy/estás/está`, negation, `tu` vs `su`, and family words.
+
+# 2026-05-22
+
+## Short Lesson And Review Session
+
+- Duration: about 10 minutes.
+- Covered: Lesson One Language in use Exercise 8 on PDF page 16.
+- Exercise 8 evidence: learner rewrote Dialogue 1 so it takes place between Max and Claudio at night: `¡Hola! Buenas noches. Soy Max.`, `yo soy Claudio, el hermano de Carmen`, `¿Estás cansado?`, and `Un poco.`
+- Review evidence: learner produced `Buenas noches`, `Estoy un poco cansado`, selected `estás` for `¿Estás cansado?`, selected `cansada` for `Mi hermana está cansada`, and produced `Mi hermano no está enfermo, pero mi hermana está cansada.`
+- Corrections: `buenos noches` -> `buenas noches`; `casando` -> `cansado`. Keep `cansado/cansada` active because recall is still fragile.
+- Next start point: Lesson One Dialogue 2 on PDF page 16, with a brief `cansado/cansada` and `buenas noches` review first.

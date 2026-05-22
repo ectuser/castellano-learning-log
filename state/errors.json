@@ -32,9 +32,13 @@
       {
         "learner": "Mia frato estas enfermo.",
         "target": "Mi hermano está enfermo."
+      },
+      {
+        "learner": "mi hermano no esta enfermo pero mi hermana esta cansada",
+        "target": "Mi hermano no está enfermo, pero mi hermana está cansada."
       }
     ],
-    "next_review": "2026-05-22",
+    "next_review": "2026-05-26",
     "priority": "high"
   },
   {
@@ -74,9 +78,13 @@
       {
         "learner": "ty estas inferno",
         "target": "¿Tú estás enfermo?"
+      },
+      {
+        "learner": "mi hermano no esta enfermo pero mi hermana esta cansada",
+        "target": "Mi hermano no está enfermo, pero mi hermana está cansada."
       }
     ],
-    "next_review": "next_session",
+    "next_review": "2026-05-26",
     "priority": "medium"
   },
   {
@@ -100,6 +108,10 @@
       {
         "learner": "tu hermana salanda?",
         "target": "¿Tu hermana está cansada?"
+      },
+      {
+        "learner": "estoy casando",
+        "target": "Estoy un poco cansado."
       }
     ],
     "next_review": "next_session",
@@ -172,9 +184,13 @@
       {
         "learner": "no, esta no ocupado",
         "target": "No, no está ocupada."
+      },
+      {
+        "learner": "mi hermano no esta enfermo pero mi hermana esta cansada",
+        "target": "Mi hermano no está enfermo, pero mi hermana está cansada."
       }
     ],
-    "next_review": "next_session",
+    "next_review": "2026-05-26",
     "priority": "medium"
   }
 ]
