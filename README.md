@@ -5,7 +5,7 @@ This repository tracks my Castellano learning progress using a textbook-led Code
 The repo contains:
 
 - learning progress and session notes
-- structured local state for vocabulary, errors, and textbook position
+- structured local state for errors and textbook position
 - the Codex skill used to guide lessons
 - a textbook map for navigation
 
@@ -57,8 +57,7 @@ The skill defines how lessons should work:
 │   └── textbook-map.md
 ├── state/
 │   ├── errors.json
-│   ├── progress.json
-│   └── vocabulary.json
+│   └── progress.json
 └── textbook/
     └── source/                     # Local textbook files, ignored by Git
 ```

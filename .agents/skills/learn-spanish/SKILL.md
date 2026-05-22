@@ -21,7 +21,6 @@ Read these at the start of each session when present:
 
 - `learning-config.json`
 - `state/progress.json`
-- `state/vocabulary.json`
 - `state/errors.json`
 - `notes/session-log.md`
 - `notes/grammar-notes.md`
@@ -38,7 +37,7 @@ The agent recommends the mode; the learner may override it. Do not ask for durat
 Supported modes:
 
 - `normal lesson`: review, textbook input, explanation, practice, production, feedback, state update
-- `review only`: due vocabulary and prior weak points, no new textbook content
+- `review only`: due Anki cards and prior weak points, no new textbook content
 - `grammar repair`: one recurring grammar issue from current or previous material
 - `homework check`: correct outside work and update state
 - `short session`: compressed review plus one useful activity
@@ -92,18 +91,15 @@ Prioritize the current target and recurring important errors. Do not correct eve
 
 ## Review And Homework
 
-Use lightweight spaced review:
+Use Anki for spaced review of lexical items. At the start of a learning session, check whether AnkiConnect is reachable; if it is not, remind the learner once to open Anki and continue without blocking the lesson.
 
-- New or missed item: review next session.
-- Correct once: review in about 2 days.
-- Correct twice: review in about 4-7 days.
-- Fragile or important item: keep due next session.
+When Anki is reachable, automatically create or update English-to-Spanish production cards for eligible lexical items that have been introduced in the lesson flow. Do not maintain a local spaced-repetition schedule or write lexical review due dates in this repository.
 
 Homework is small, optional, and primarily textbook-bound. Optional enrichment is allowed only when it supports current or previous material, is clearly labeled optional, and does not become the curriculum.
 
 ## State And Git
 
-Track progress primarily by textbook location. Attach grammar, vocabulary, active errors, evidence, and next start point to that location. Do not track CEFR or separate skill scores in v1.
+Track progress primarily by textbook location. Attach grammar, active errors, evidence, and next start point to that location. Do not track CEFR or separate skill scores in v1.
 
 Checkpoint state lightly after meaningful milestones. At session close:
 
