@@ -93,3 +93,15 @@
 - Review evidence: learner produced `Buenas noches`, `Estoy un poco cansado`, selected `estás` for `¿Estás cansado?`, selected `cansada` for `Mi hermana está cansada`, and produced `Mi hermano no está enfermo, pero mi hermana está cansada.`
 - Corrections: `buenos noches` -> `buenas noches`; `casando` -> `cansado`. Keep `cansado/cansada` active because recall is still fragile.
 - Next start point: Lesson One Dialogue 2 on PDF page 16, with a brief `cansado/cansada` and `buenas noches` review first.
+
+# 2026-05-25
+
+## Fifteen-Minute Dialogue 2 Session
+
+- Duration: about 30 minutes wall-clock, learner-requested 15-minute lesson flow.
+- Covered: Lesson One Dialogue 2 on PDF page 16: introductions and core vocabulary through `bienvenida a nuestra casa`.
+- Practiced: `Ésta es Laura`, `Éste es mi hermano, Pedro`, `Ésta es mi hermana, Carmen`, `Encantado/a`, `Mucho gusto`, `Muchas gracias`, `mamá`, `bienvenida a nuestra casa`, `amigo/amiga`, `inglés/inglesa`, and `el/la hermano/a de`.
+- Evidence: learner produced `Encantado`, `Laura es la amiga inglesa de John`, `Soy Pedro, el hermano de estas dos`, `Encantada`, `Muchas gracias`, `Ésta es mamá`, and `Bienvenida a nuestra casa`.
+- Corrections: `consado/consada` -> `cansado/cansada`; `muy bien` -> `muchas gracias` for thanking; `ingleso` -> `inglés`; `inglesa amiga` -> `amiga inglesa`; `esta es mi hermano` -> `Éste es mi hermano`.
+- Anki: added production cards for `Encantado`, `Encantada`, `Muchas gracias`, `Bienvenida a nuestra casa`, and `la amiga inglesa de John`.
+- Next start point: Lesson One Dialogue 2 language points on PDF page 17, starting with a short review of `Éste/Ésta es` vs `está` and `amigo inglés` / `amiga inglesa`.

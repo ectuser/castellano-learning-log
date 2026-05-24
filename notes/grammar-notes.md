@@ -53,3 +53,25 @@
 - `pero` = but: `Estoy ocupado, pero mi hermana está libre.`
 - `y` = and: `Mi hermano está ocupado y mi hermana está cansada.`
 - `mi` = my: `mi hermano`, `mi hermana`.
+
+## 2026-05-25 - Lesson One Dialogue 2
+
+### This Is vs Is
+
+- `Éste es...` = this is, for a masculine person or thing: `Éste es mi hermano, Pedro.`
+- `Ésta es...` = this is, for a feminine person or thing: `Ésta es mi hermana, Carmen.`
+- `está` = is, for a condition/state: `Mi hermano está ocupado.`
+
+### Introductions
+
+- A man says `Encantado.` for pleased to meet you.
+- A woman says `Encantada.` for pleased to meet you.
+- `Mucho gusto.` also means pleased to meet you.
+- `Muchas gracias.` = thank you very much.
+
+### Nationality Adjectives
+
+- `mi amigo inglés` = my English male friend.
+- `mi amiga inglesa` = my English female friend.
+- Spanish usually puts the adjective after the noun in these phrases.
+- Nationalities are not capitalized in Spanish.

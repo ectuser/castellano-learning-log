@@ -112,10 +112,54 @@
       {
         "learner": "estoy casando",
         "target": "Estoy un poco cansado."
+      },
+      {
+        "learner": "estoy un poco consado",
+        "target": "Estoy un poco cansado."
+      },
+      {
+        "learner": "mi hermana esta consada",
+        "target": "Mi hermana está cansada."
       }
     ],
     "next_review": "next_session",
     "priority": "medium"
+  },
+  {
+    "id": "lesson-1-este-esta-vs-esta",
+    "status": "active_review",
+    "source": "Lesson One Dialogue 2 / Introducing people more formally",
+    "pattern": "Needs contrast between Éste/Ésta es for 'this is' and está for state; also needs masculine Éste with masculine nouns/names.",
+    "examples": [
+      {
+        "learner": "esta es mi hermano pedro",
+        "target": "Éste es mi hermano, Pedro."
+      }
+    ],
+    "next_review": "next_session",
+    "priority": "high"
+  },
+  {
+    "id": "lesson-1-adjective-after-noun-nationality",
+    "status": "active_review",
+    "source": "Lesson One Dialogue 2 / More on gender of adjectives",
+    "pattern": "Needs reinforcement that nationality adjectives follow the noun and agree in gender: mi amigo inglés, mi amiga inglesa.",
+    "examples": [
+      {
+        "learner": "esta es mi inglesa amiga laura",
+        "target": "Ésta es mi amiga inglesa, Laura."
+      },
+      {
+        "learner": "este es mi ingleso amigo john",
+        "target": "Éste es mi amigo inglés, John."
+      },
+      {
+        "learner": "esta es laura la inglesa amiga de john",
+        "target": "Ésta es Laura, la amiga inglesa de John."
+      }
+    ],
+    "next_review": "next_session",
+    "priority": "high"
   },
   {
     "id": "lesson-1-no-soy-vs-no-pause-soy",
