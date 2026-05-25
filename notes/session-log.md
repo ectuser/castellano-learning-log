@@ -105,3 +105,12 @@
 - Corrections: `consado/consada` -> `cansado/cansada`; `muy bien` -> `muchas gracias` for thanking; `ingleso` -> `inglés`; `inglesa amiga` -> `amiga inglesa`; `esta es mi hermano` -> `Éste es mi hermano`.
 - Anki: added production cards for `Encantado`, `Encantada`, `Muchas gracias`, `Bienvenida a nuestra casa`, and `la amiga inglesa de John`.
 - Next start point: Lesson One Dialogue 2 language points on PDF page 17, starting with a short review of `Éste/Ésta es` vs `está` and `amigo inglés` / `amiga inglesa`.
+
+## Twenty-Minute Session (continued to ~22 minutes)
+
+- Duration: about 22 minutes.
+- Covered: Lesson One page 17 language points (gender of adjectives, formal introductions); Language in use Exercises 9 and 10 on pages 17-18.
+- Practiced: `Éste/Ésta es`, `mi amiga inglesa`, `español/española`, `el padre de Carmen`, `Teresa está cansada, pero Pedro no está ocupado`, and full adjective grids for `contento`, `cansado`, `ocupado`, `enfermo`, `libre`.
+- Evidence: learner completed Exercise 9 items 1-5 after repair; completed Exercise 10; produced plural sentence with `están` after one prompt.
+- Corrections to review next time: plural `están` with `los/las`, `ser` vs `estar` for states, `ocupado` spelling, and keeping the full `Éste/Ésta es...` frame in introductions.
+- Next start point: Lesson One Language in use Exercise 11 on PDF page 18, after a brief `están` + `los/las` warm-up.

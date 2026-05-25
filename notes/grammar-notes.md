@@ -75,3 +75,30 @@
 - `mi amiga inglesa` = my English female friend.
 - Spanish usually puts the adjective after the noun in these phrases.
 - Nationalities are not capitalized in Spanish.
+
+## 2026-05-25 - Lesson One Pages 17-18
+
+### More Adjective Gender
+
+- Many adjectives: masculine `-o`, feminine `-a`: `contento/contenta`, `cansado/cansada`, `ocupado/ocupada`, `enfermo/enferma`.
+- Some add `-a` to the masculine form: `español` -> `española`, `argentino` -> `argentina`.
+- When the masculine ends in `-és` or `-án`, the feminine drops the accent: `inglés/inglesa`, `francés/francesa`, `alemán/alemana`.
+- Adjective usually follows the noun: `el coche caro`, `mi amiga inglesa`.
+
+### Formal Introductions With de
+
+- `Éste es el hermano de Carmen.` = This is Carmen's brother.
+- `Ésta es la madre de Juan.` = This is Juan's mother.
+- `Ésta es Carmen, la amiga española de Sonia.` = This is Carmen, Sonia's Spanish friend.
+
+### Adjective Plurals
+
+- Masculine plural usually adds `-s`: `contentos`, `cansados`, `ocupados`.
+- Feminine plural usually adds `-s`: `contentas`, `cansadas`, `ocupadas`.
+- `libre` stays `libre` in feminine singular; plural `libres` for both genders.
+
+### Plural Estar
+
+- `Las hermanas están cansadas.`
+- `Los hermanos no están enfermos.`
+- Plural subjects need `están`, not `está`.

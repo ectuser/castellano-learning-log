@@ -3,9 +3,9 @@
     "active_id": "colloquial-spanish-untza-otaola-alday",
     "lesson_id": "Lesson One",
     "section_id": "Dialogue 2",
-    "activity_id": "Dialogue 2 language points next",
-    "page": "PDF page 17",
-    "next_start": "Lesson One Dialogue 2 on PDF page 17: More on gender of adjectives and Introducing people more formally. Start with a brief review of Éste/Ésta es vs está and amiga inglesa word order."
+    "activity_id": "Language in use Exercise 11 next",
+    "page": "PDF page 18",
+    "next_start": "Lesson One Language in use Exercise 11 on PDF page 18, after a brief review of plural están with los/las and formal introductions (Éste/Ésta es + el/la ... de)."
   },
   "status": {
     "lesson_state": "in_progress",
@@ -19,8 +19,11 @@
       "estar for temporary state: contrast estoy, está, estás",
       "Éste/Ésta es for this is, contrasted with está for state",
       "basic article and adjective agreement: el/la, bueno/buena",
-      "nationality adjective agreement: inglés/inglesa",
+      "nationality adjective agreement: inglés/inglesa, español/española, francés/francesa",
       "adjective after noun in phrases such as mi amiga inglesa",
+      "adjective gender patterns: -o/-a, add -a, accent drop in inglés/francés/alemán feminines",
+      "adjective plural forms: contentos/contentas, libres",
+      "plural estar with los/las: están",
       "basic plural articles and nouns: el -> los, la -> las, vowel + s",
       "simple connectors: pero, y, mi",
       "written question/exclamation punctuation recognition"
@@ -43,7 +46,11 @@
       "Lesson One Language in use Exercise 5",
       "Lesson One Language in use Exercise 6",
       "Lesson One Language in use Exercise 7",
-      "Lesson One Language in use Exercise 8"
+      "Lesson One Language in use Exercise 8",
+      "Lesson One Dialogue 2 Language points: More on gender of adjectives",
+      "Lesson One Dialogue 2 Language points: Introducing people more formally",
+      "Lesson One Language in use Exercise 9",
+      "Lesson One Language in use Exercise 10"
     ],
     "checks_passed": [
       "Recognized silent h in hola",
@@ -65,7 +72,13 @@
       "Short review: produced Buenas noches, Estoy un poco cansado, ¿Estás cansado?, Mi hermana está cansada, and Mi hermano no está enfermo, pero mi hermana está cansada",
       "Started Lesson One Dialogue 2: produced Ésta es Laura, Ésta es Carmen, mi hermana, Encantado, Laura, Muchas gracias, Ésta es mamá, and Bienvenida a nuestra casa",
       "Distinguished Éste/Ésta es from está in a targeted contrast drill",
-      "Selected inglés/inglesa correctly for amigo/amiga prompts"
+      "Selected inglés/inglesa correctly for amigo/amiga prompts",
+      "Completed page 17 warm-up: Éste es mi hermano, Pedro; distinguished Ésta es vs está",
+      "Produced mi amiga inglesa and Ésta es Carmen, la amiga española de Sonia after word-order repair",
+      "Completed Exercise 9 formal introductions 1-5 with Éste/Ésta es and el/la ... de",
+      "Completed Exercise 10 adjective grids for contento, cansado, ocupado, enfermo, and libre",
+      "Produced Teresa está cansada, pero Pedro no está ocupado",
+      "Repaired plural están: Las hermanas están cansadas, pero los hermanos no están enfermos"
     ],
     "guided_production_notes": [
       "Successful final role-play as Ivan with Teresa using greetings, identity, state, journey, and tiredness response.",
@@ -80,9 +93,10 @@
       "Short lesson: learner completed Exercise 6 and Exercise 7. Main repairs were cansado/cansada spelling, Juan's brother as el hermano de Juan, su hermana instead of tu hermana for his/her sister, and using ¿Cómo está...? for the Exercise 6 pattern.",
       "End review: learner selected estoy/estás/está correctly, produced Mi hermana está cansada and Estoy libre, but used a non-Spanish form for my brother is ill; reinforce Mi hermano está enfermo.",
       "Short session: learner rewrote Dialogue 1 for Max and Claudio at night. Main repair was Buenas noches and recalling cansado after initially writing casando. Learner completed the final mixed review sentence correctly.",
-      "15-minute Dialogue 2 session: learner began the introductions dialogue and practiced Éste/Ésta es, Encantado/a, Muchas gracias, mamá, bienvenida a nuestra casa, amigo/amiga, inglés/inglesa, and el/la hermano/a de. Main repairs were consado/consada -> cansado/cansada, muy bien -> muchas gracias for thanks, amigo inglés word order, and using Éste for masculine introductions."
+      "15-minute Dialogue 2 session: learner began the introductions dialogue and practiced Éste/Ésta es, Encantado/a, Muchas gracias, mamá, bienvenida a nuestra casa, amigo/amiga, inglés/inglesa, and el/la hermano/a de. Main repairs were consado/consada -> cansado/cansada, muy bien -> muchas gracias for thanks, amigo inglés word order, and using Éste for masculine introductions.",
+      "22-minute session: completed page 17 language points and Exercises 9-10. Repairs included ser->estar for states, mi inglesa amiga word order, esta el la->Ésta es la, Exercise 9 #4 padre vs hermano, occupado spelling, and plural están with los/las. Keep plural están and formal introduction frames active."
     ],
-    "mastery_decision": "Dialogue 2 introduction phrases and core vocabulary started. Continue on page 17 with gender of adjectives and formal introductions, after a brief contrast review."
+    "mastery_decision": "Lesson One Dialogue 2 language points and Exercises 9-10 substantially covered. Continue with Exercise 11-12 on page 18 after brief plural estar review."
   },
   "approvals": [],
   "homework": {
@@ -99,8 +113,8 @@
     ]
   },
   "session_timing": {
-    "current_started_at": "",
-    "last_started_at": "2026-05-24T23:54:38+02:00",
-    "last_ended_at": "2026-05-25T00:25:04+02:00"
+    "current_started_at": null,
+    "last_started_at": "2026-05-25T17:28:42+02:00",
+    "last_ended_at": "2026-05-25T17:50:37+02:00"
   }
 }
