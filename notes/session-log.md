@@ -114,3 +114,14 @@
 - Evidence: learner completed Exercise 9 items 1-5 after repair; completed Exercise 10; produced plural sentence with `están` after one prompt.
 - Corrections to review next time: plural `están` with `los/las`, `ser` vs `estar` for states, `ocupado` spelling, and keeping the full `Éste/Ésta es...` frame in introductions.
 - Next start point: Lesson One Language in use Exercise 11 on PDF page 18, after a brief `están` + `los/las` warm-up.
+
+# 2026-05-26
+
+## Eight-Minute Session
+
+- Duration: about 6 minutes.
+- Covered: Lesson One Language in use Exercise 11 on PDF page 18.
+- Practiced: positive answers with `Sí, estoy...`, `Sí, soy...`, and `Sí, ... es mi hermano`.
+- Evidence: learner produced `Sí, estoy cansado`, `Sí, soy inglés`, `Sí, estoy ocupado`, `Sí, soy el amigo de Carmen`, and `Sí, John es mi hermano`.
+- Corrections: only accents/capitalization were cleaned up in the model; the main grammar contrast was correct.
+- Next start point: Lesson One Language in use Exercise 12 on PDF page 18, matching short replies.
