@@ -101,12 +101,21 @@ Homework is small, optional, and primarily textbook-bound. Optional enrichment i
 
 Track progress primarily by textbook location. Attach grammar, active errors, evidence, and next start point to that location. Do not track CEFR or separate skill scores in v1.
 
-Checkpoint state lightly after meaningful milestones. At session close:
+Checkpoint state lightly after meaningful milestones.
 
-1. Update state and notes.
-2. Show a compact state-update summary, not raw JSON unless needed.
-3. Include recommended next mode and estimated time.
-4. Move `session_timing.current_started_at` to `last_started_at`, set `last_ended_at` to the current local ISO timestamp, clear `current_started_at`, and write the friendly duration to `notes/session-log.md`.
+### Finish Session Checklist
+
+When the learner says `finish`, `stop here`, `end session`, or similar, complete this checklist before the final reply. Do not skip items silently. If an item cannot be completed, say what blocked it and continue with the remaining safe items.
+
+1. Review the session transcript and identify the textbook location reached, completed activities, learner evidence, important corrections, active recurring errors, and next start point.
+2. Update state and notes:
+   - update `state/progress.json` with textbook position, status, evidence, next start point, homework status when relevant, and session timing
+   - update `state/errors.json` only for recurring or instruction-relevant error patterns
+   - update `notes/session-log.md` with mode, friendly duration, covered work, learner evidence, corrections to review, and next start point
+   - update `notes/grammar-notes.md` or `notes/textbook-map.md` only if the session introduced durable grammar notes or changed navigation knowledge
+   - consider Anki only for lexical items or short fixed phrases introduced or meaningfully practiced this session; before adding, check whether a matching card already exists, then add, update, or mark as not needed/already present/unavailable
+3. Run a quick consistency check: `current_started_at` is cleared, timing fields are correct, `next_start` matches the session log, active errors match the recommendation, and Anki was considered.
+4. Show a compact state-update summary, not raw JSON unless needed. Include recommended next mode and estimated time.
 5. If the project is a Git repo and files changed, commit once. Do not push unless asked.
 
 At natural lesson boundaries, compare elapsed time against soft limits and offer a stop-or-continue choice when useful: about 15-20 minutes for `short session`, 45 minutes for `normal lesson`, 25-30 minutes for `review only` or `grammar repair`, and 20-30 minutes for `homework check`. Do not interrupt in the middle of an answer or drill just to mention time.
