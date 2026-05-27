@@ -3,15 +3,15 @@
     "active_id": "colloquial-spanish-untza-otaola-alday",
     "lesson_id": "Lesson One",
     "section_id": "Dialogue 2",
-    "activity_id": "Language in use Exercise 12 next",
-    "page": "PDF page 18",
-    "next_start": "Lesson One Language in use Exercise 12 on PDF page 18, matching responses to statements/questions, after a brief review of positive answers with sí + soy/es/estoy."
+    "activity_id": "Language in use Exercise 13 next",
+    "page": "PDF page 19",
+    "next_start": "Lesson One Language in use Exercise 13 on PDF page 19, correcting mistaken nationality statements, after a brief review of ¿Qué tal el viaje? responses and adjective order in mi amigo/amiga inglés/inglesa."
   },
   "status": {
     "lesson_state": "in_progress",
-    "last_session_date": "2026-05-26",
+    "last_session_date": "2026-05-27",
     "recommended_next_mode": "short session",
-    "estimated_next_session_minutes": 10
+    "estimated_next_session_minutes": 15
   },
   "targets": {
     "grammar": [
@@ -51,7 +51,8 @@
       "Lesson One Dialogue 2 Language points: Introducing people more formally",
       "Lesson One Language in use Exercise 9",
       "Lesson One Language in use Exercise 10",
-      "Lesson One Language in use Exercise 11"
+      "Lesson One Language in use Exercise 11",
+      "Lesson One Language in use Exercise 12"
     ],
     "checks_passed": [
       "Recognized silent h in hola",
@@ -80,7 +81,12 @@
       "Completed Exercise 10 adjective grids for contento, cansado, ocupado, enfermo, and libre",
       "Produced Teresa está cansada, pero Pedro no está ocupado",
       "Repaired plural están: Las hermanas están cansadas, pero los hermanos no están enfermos",
-      "Completed Exercise 11 positive answers with Sí, estoy cansado; Sí, soy inglés; Sí, estoy ocupado; Sí, soy el amigo de Carmen; and Sí, John es mi hermano"
+      "Completed Exercise 11 positive answers with Sí, estoy cansado; Sí, soy inglés; Sí, estoy ocupado; Sí, soy el amigo de Carmen; and Sí, John es mi hermano",
+      "Completed Exercise 12 matching responses: No mucho, Muy bien gracias, No soy Teresa, Mucho gusto, Sí es Elena, Encantado, Muchas gracias, and Muy bien gracias for el viaje.",
+      "Produced review forms estoy, ¿estás ocupado?, and Mis hermanas están cansadas.",
+      "Produced Estoy ocupada, pero mi hermana está libre and Mis hermanos no están enfermos.",
+      "Repaired adjective order from mi inglesa amiga to mi amiga inglesa and then produced Éste es mi amigo inglés, John.",
+      "Produced Éste es mi hermano, Pedro; Ésta es mi hermana, Carmen; and Mis hermanas están cansadas, pero mis hermanos no están enfermos."
     ],
     "guided_production_notes": [
       "Successful final role-play as Ivan with Teresa using greetings, identity, state, journey, and tiredness response.",
@@ -97,9 +103,10 @@
       "Short session: learner rewrote Dialogue 1 for Max and Claudio at night. Main repair was Buenas noches and recalling cansado after initially writing casando. Learner completed the final mixed review sentence correctly.",
       "15-minute Dialogue 2 session: learner began the introductions dialogue and practiced Éste/Ésta es, Encantado/a, Muchas gracias, mamá, bienvenida a nuestra casa, amigo/amiga, inglés/inglesa, and el/la hermano/a de. Main repairs were consado/consada -> cansado/cansada, muy bien -> muchas gracias for thanks, amigo inglés word order, and using Éste for masculine introductions.",
       "22-minute session: completed page 17 language points and Exercises 9-10. Repairs included ser->estar for states, mi inglesa amiga word order, esta el la->Ésta es la, Exercise 9 #4 padre vs hermano, occupado spelling, and plural están with los/las. Keep plural están and formal introduction frames active.",
-      "8-minute session: completed Exercise 11 positive answers. Learner used correct soy/estoy contrast for nationality vs states and answered family/friend identity questions correctly; only accent/capitalization cleanup needed."
+      "8-minute session: completed Exercise 11 positive answers. Learner used correct soy/estoy contrast for nationality vs states and answered family/friend identity questions correctly; only accent/capitalization cleanup needed.",
+      "10-minute short session: completed Exercise 12 and mixed review. Learner matched all Exercise 12 replies correctly, used estoy/estás/están accurately, and repaired mi inglesa amiga to mi amiga inglesa. Main remaining repair: for ¿Qué tal el viaje?, answer about the journey, not personal state. Keep adjective order and ¿Qué tal...? response contrast active next session."
     ],
-    "mastery_decision": "Lesson One Dialogue 2 language points and Exercises 9-11 substantially covered. Continue with Exercise 12 on page 18, keeping soy/es vs estoy active."
+    "mastery_decision": "Lesson One Dialogue 2 language points and Exercises 9-12 substantially covered. Continue with Exercise 13 on page 19, keeping ¿Qué tal el viaje? response patterns and nationality adjective agreement active."
   },
   "approvals": [],
   "homework": {
@@ -117,7 +124,7 @@
   },
   "session_timing": {
     "current_started_at": null,
-    "last_started_at": "2026-05-26T23:19:24+02:00",
-    "last_ended_at": "2026-05-26T23:25:27+02:00"
+    "last_started_at": "2026-05-27T22:36:10+02:00",
+    "last_ended_at": "2026-05-27T22:46:31+02:00"
   }
 }

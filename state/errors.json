@@ -46,7 +46,7 @@
         "target": "Las hermanas están cansadas, pero los hermanos no están enfermos."
       }
     ],
-    "next_review": "2026-05-26",
+    "next_review": "2026-05-31",
     "priority": "high"
   },
   {
@@ -64,7 +64,7 @@
         "target": "los hermanos no están enfermos"
       }
     ],
-    "next_review": "next_session",
+    "next_review": "2026-05-31",
     "priority": "high"
   },
   {
@@ -90,6 +90,10 @@
       {
         "learner": "que tal la hermana de laura",
         "target": "¿Cómo está la hermana de Laura?"
+      },
+      {
+        "learner": "muy bien, estoy cansado",
+        "target": "Muy bien, gracias. / El viaje es bueno."
       }
     ],
     "next_review": "next_session",
@@ -170,7 +174,7 @@
         "target": "Ésta es la madre de Juan."
       }
     ],
-    "next_review": "next_session",
+    "next_review": "2026-05-31",
     "priority": "high"
   },
   {
@@ -198,6 +202,10 @@
       {
         "learner": "este es el hermano de carmen",
         "target": "Éste es el padre de Carmen."
+      },
+      {
+        "learner": "esta mi inglesa amiga laura",
+        "target": "Ésta es mi amiga inglesa, Laura."
       }
     ],
     "next_review": "next_session",

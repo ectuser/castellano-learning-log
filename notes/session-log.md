@@ -125,3 +125,14 @@
 - Evidence: learner produced `Sí, estoy cansado`, `Sí, soy inglés`, `Sí, estoy ocupado`, `Sí, soy el amigo de Carmen`, and `Sí, John es mi hermano`.
 - Corrections: only accents/capitalization were cleaned up in the model; the main grammar contrast was correct.
 - Next start point: Lesson One Language in use Exercise 12 on PDF page 18, matching short replies.
+
+# 2026-05-27
+
+## Twenty-Minute Session
+
+- Duration: about 10 minutes.
+- Covered: Lesson One Language in use Exercise 12 on PDF pages 18-19, plus mixed review of `estoy/estás/están`, `Éste/Ésta es`, and adjective order.
+- Exercise 12 evidence: learner matched all responses correctly: `No mucho`, `Muy bien, gracias`, `No, soy Teresa`, `Mucho gusto`, `Sí, es Elena`, `Encantado`, `Muchas gracias`, and `Muy bien, gracias`.
+- Review evidence: learner produced `Estoy ocupada, pero mi hermana está libre`, `Mis hermanos no están enfermos`, `Éste es mi amigo inglés, John`, `Éste es mi hermano, Pedro`, `Ésta es mi hermana, Carmen`, and `Mis hermanas están cansadas, pero mis hermanos no están enfermos`.
+- Corrections: repaired `esta mi inglesa amiga laura` to `Ésta es mi amiga inglesa, Laura`; reinforced that `¿Qué tal el viaje?` needs an answer about the journey, not personal state.
+- Next start point: Lesson One Language in use Exercise 13 on PDF page 19, after a brief review of `¿Qué tal el viaje?` and nationality adjective agreement.
